@@ -1,0 +1,43 @@
+body{
+    background-color: lightblue;
+}
+
+#CandleImg{
+    height: 300px;
+    width:300px;
+}
+#GlueImg{
+    height: 300px;
+    width:300px;
+}
+#highlighterImg{
+    height: 300px;
+    width:300px;
+}
+#matchesImg{
+    height: 300px;
+    width:300px;
+}
+#pencilImg{
+    height: 300px;
+    width:300px;
+}
+#RubixCubeImg{
+    height: 300px;
+    width:300px;
+}#scaleImg{
+    height: 300px;
+    width:300px;
+}
+#ukuleleImg{
+    height: 300px;
+    width:300px;
+}
+#WhiteBoardMarkerImg{
+    height: 300px;
+    width:300px;
+}
+
+.test_image_and_result{
+    background-color: gray;
+}
